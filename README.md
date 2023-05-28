@@ -33,7 +33,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### Daily Dev
- <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/N3siOS/N3siOS/blob/master/devcard.svg" width="400" alt="N3siOS Dev Card"/></a>
+ <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/N3siOS/N3siOS/blob/main/devcard.svg" width="400" alt="N3siOS Dev Card"/></a>
 
 
 
